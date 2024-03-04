@@ -1,0 +1,6 @@
+ Javascript Execution Context
+ a> Global Execution Context
+ b> Function Execution Context
+ c> Eval Execution Context
+
+
